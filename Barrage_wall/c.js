@@ -33,10 +33,6 @@ function zimu(len){
     }
 	return pwd;
 }
-
-
-
-
 function getValue(){
 	var i=zimu(6);
 	var content="<p "+"id="+i+">"+$("#input").val()+"<p>";
@@ -54,4 +50,12 @@ function getValue(){
 function deleteEle(){
 	$(".wall p").remove()
 	
+}
+// 增加注释内容，测试提交
+function test(){
+    console.log("test");
+    console.log("test");
+    console.log("test");
+    console.log("test");
+
 }
