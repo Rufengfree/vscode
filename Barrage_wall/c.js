@@ -51,8 +51,3 @@ function deleteEle(){
 	$(".wall p").remove()
 	
 }
-// 增加注释内容，测试提交
-function test(){
-    console.log("test");
-
-}
