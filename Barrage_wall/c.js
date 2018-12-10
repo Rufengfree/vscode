@@ -54,11 +54,5 @@ function deleteEle(){
 // 增加注释内容，测试提交
 function test(){
     console.log("test");
-    console.log("test");
-    console.log("test");
-    console.log("test");
-    console.log("test");
-    console.log("test");
-    console.log("test");
 
 }
