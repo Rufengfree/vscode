@@ -1,0 +1,30 @@
+.wall{
+  width:90%;
+  height:500px;
+  border:1px solid black;
+  border-radius:5px;
+  margin:0 auto
+}
+div{
+  
+  text-align:center!important;
+}
+#input{
+  margin:10px;
+  width:400px;
+  height:30px;
+  border-radius:3px;
+  border:1px solid;
+  padding-left:12px;
+}
+[type=button]{
+  width:150px;
+  height:30px;
+  background-color:white;
+  border-radius:3px;
+  border:1px solid;
+}
+#button1{
+  border:1px solid orange;
+  color:orange; 
+}
